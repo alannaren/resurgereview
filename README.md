@@ -1,4 +1,4 @@
-# resurgereview
+# weightloss
 
 Some studies have shown that caloric intake below needs and changes in the caloric distribution of macronutrients can play a role. Eating habits like increased dieting disinhibition and binge eating also lead to weight loss. Higher initial metabolic rate (RMR), greater reluctance to eat, and low frequency of dieting have been shown to be associated with weight gain. Weight gain after weight loss is a common problem for any overweight or obese people who have recently lost weight. Various solutions such as diet therapy, behavior therapy, exercise, or a combination of these have been recommended as solutions. The purpose of this review is to find the best diet or eating pattern to sustain a recent weight loss. Meal replacement, low carbohydrate and low glycemic index (GI) diets, high protein intake, and moderate fat intake have shown some beneficial effects on weight maintenance. However, the results are controversial. 
 
